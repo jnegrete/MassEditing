@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/JayVora-SerpentCS/MassEditing.svg?branch=10.0)](https://travis-ci.org/JayVora-SerpentCS/MassEditing)
+[![Build Status](https://travis-ci.org/jnegrete/MassEditing.svg?branch=11.0)](https://travis-ci.org/jnegrete/MassEditing)
 
 ============
 Mass Editing
